@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^old-page$ https://888starz-download.github.io/direct-link/ [R=301,L]
